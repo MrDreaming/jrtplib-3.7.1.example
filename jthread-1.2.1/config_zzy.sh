@@ -1,0 +1,1 @@
+./configure --prefix=$PWD/_install --host=arm-none-linux-gnueabi

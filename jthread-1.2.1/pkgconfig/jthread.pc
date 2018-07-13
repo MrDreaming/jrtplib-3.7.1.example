@@ -1,0 +1,11 @@
+prefix=/home/zzy/src/jrtplib/src/jthread-1.2.1/_install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include/jthread
+
+Name: Jthread 
+Description: Multi-platform thread/mutex library
+Requires:
+Version: 1.2.1
+Libs: -L${libdir} -ljthread
+Cflags: -I${includedir}

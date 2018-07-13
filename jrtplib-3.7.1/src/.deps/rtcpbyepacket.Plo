@@ -1,0 +1,116 @@
+rtcpbyepacket.lo: rtcpbyepacket.cpp rtcpbyepacket.h rtpconfig.h \
+ rtpconfig_unix.h rtcppacket.h rtptypes.h rtptypes_unix.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/inttypes.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdint.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/stdint.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wchar.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/types.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stddef.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/byteswap.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/select.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/select.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h \
+ rtpstructs.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/netinet/in.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/socket.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/uio.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/uio.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/socket.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sockaddr.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/socket.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/sockios.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/in.h \
+ rtpdebug.h
+
+rtcpbyepacket.h:
+
+rtpconfig.h:
+
+rtpconfig_unix.h:
+
+rtcppacket.h:
+
+rtptypes.h:
+
+rtptypes_unix.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/inttypes.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdint.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/stdint.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wchar.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/types.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stddef.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/byteswap.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/select.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/select.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h:
+
+rtpstructs.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/netinet/in.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/socket.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/uio.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/uio.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/socket.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sockaddr.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/socket.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/sockios.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/in.h:
+
+rtpdebug.h:

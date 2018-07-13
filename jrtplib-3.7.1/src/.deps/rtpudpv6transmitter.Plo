@@ -1,0 +1,8 @@
+rtpudpv6transmitter.lo: rtpudpv6transmitter.cpp rtpudpv6transmitter.h \
+ rtpconfig.h rtpconfig_unix.h
+
+rtpudpv6transmitter.h:
+
+rtpconfig.h:
+
+rtpconfig_unix.h:

@@ -1,0 +1,1 @@
+ln -s libstdc++.so.6.0.17 libstdc++.so.6

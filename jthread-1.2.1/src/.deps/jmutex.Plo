@@ -1,0 +1,66 @@
+jmutex.lo: pthread/jmutex.cpp jmutex.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/pthread.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/byteswap.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sched.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stddef.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sched.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/xlocale.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/signal.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h \
+ /home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/setjmp.h
+
+jmutex.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/pthread.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/byteswap.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/sched.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stddef.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sched.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/xlocale.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/signal.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h:
+
+/home/hp/X3/arm_toolchain/external-toolchain/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/setjmp.h:

@@ -1,0 +1,11 @@
+prefix=/home/zzy/src/jrtplib/src/jrtplib-3.7.1/_install
+exec_prefix=${prefix}
+libdir=/home/zzy/src/jrtplib/src/jthread-1.2.1/_install/lib
+includedir=${prefix}/include/jrtplib3
+
+Name: Jrtplib 
+Description: An full featured RTP library
+Requires:
+Version: 3.7.1
+Libs: -L${libdir} -ljrtp
+Cflags: -I${includedir}
